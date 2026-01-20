@@ -4,7 +4,7 @@ ExampleSite is an experiment to better understand github.io project pages as a p
 
 ## Usage
 
-Visit [https://chh02.github.io/ExampleSite/] (https://chh02.github.io/ExampleSite/) to view site.
+Visit [https://chh02.github.io/ExampleSite/web] (https://chh02.github.io/ExampleSite/web) to view site.
 
 ## Contributing
 
